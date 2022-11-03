@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @glxplz
+- 👀 I’m interested in Data Science, MLOps and Peer to Peer Comms
+- 🌱 I’m currently learning Rust and GO
