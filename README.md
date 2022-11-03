@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @glxplz
+- 👋 Hi, I’m @glxplz 🍀🍄 (reads as Glückspilz)
 - 👀 I’m interested in Data Science, MLOps and Peer to Peer Comms
 - 🌱 I’m currently learning Rust and GO
